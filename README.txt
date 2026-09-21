@@ -1,31 +1,20 @@
-FOUNTAIN OF RESTORATION & SALVATION GOSPEL CHURCH — WEBSITE
+Fountain of Restoration & Salvation Gospel Church — GitHub Pages package
 
-This is a complete static website for FRSGC. It includes:
-- Home / welcome section
-- Church story and history
-- Mission and vision
-- Core values
-- Statement of faith
-- Ministries
-- Leadership
-- USA branch
-- Services and monthly programs
-- Cleaned church photo gallery with image viewer
-- Testimony invitation
-- Prayer and counseling contact
-- Church contact details and social links
+UPLOAD TO GITHUB:
+1. Replace your current index.html with the index.html in this package.
+2. Upload the entire assets folder too.
+3. Keep the folder structure exactly like this:
 
-Files:
 index.html
-styles.css
-script.js
-assets/ (logo, pastor photos and cleaned gallery)
-
-FREE HOSTING:
-1. Netlify Drop: https://app.netlify.com/drop
-   Log in, then drag this entire website folder into the drop area.
-2. GitHub Pages: https://pages.github.com/
-   Create a public repository, upload the website files, then enable Pages.
+assets/
+  church-logo.jpg
+  pastor-oshodi-glover-1.jpg
+  pastor-oshodi-glover-2.jpg
+  pastor-ogunniran-adeolu.jpg
+  pastor-sk-makinde.jpg
+  pastor-bukola-taiwo.jpg
+  gallery/
+    FRSGC_gallery_01.jpg ... FRSGC_gallery_10.jpg
 
 IMPORTANT:
-This is a static website. The prayer/testimony buttons open the church email app; they do not store form submissions on a server.
+Do not upload the JPG files all into the same place if GitHub is showing folders. The pastor photos go directly inside assets, and the gallery photos go inside assets/gallery.
